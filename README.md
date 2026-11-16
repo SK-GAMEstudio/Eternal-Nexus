@@ -1,4 +1,4 @@
-# ⚔ ETERNAL NEXUS
+# [ ETERNAL NEXUS ]
 
 - **Version:** Alpha
 - **Created Date:** 27/09/2026
