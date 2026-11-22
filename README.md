@@ -1,4 +1,4 @@
-![Logo Eternal Nexus](./iconS.png)
+<img src="./iconS.png" alt="Logo Eternal Nexus" width="60%">
 # [ ETERNAL NEXUS ]
 
 - **Version:** Alpha
