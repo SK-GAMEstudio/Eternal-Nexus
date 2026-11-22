@@ -1,3 +1,4 @@
+![Logo Eternal Nexus](./images/logoS.png)
 # [ ETERNAL NEXUS ]
 
 - **Version:** Alpha
